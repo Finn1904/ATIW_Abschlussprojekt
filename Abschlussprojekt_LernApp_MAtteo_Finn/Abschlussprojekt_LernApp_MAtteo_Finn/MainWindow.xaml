@@ -5,9 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Abschlussprojekt_LernApp_MAtteo_Finn"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" SizeChanged="Window_SizeChanged">
     <Grid>
-        <Button Content="HEHEHEHEHE" Click="Button_Click" Margin="267,112,148,82"/>
-
+        
     </Grid>
 </Window>

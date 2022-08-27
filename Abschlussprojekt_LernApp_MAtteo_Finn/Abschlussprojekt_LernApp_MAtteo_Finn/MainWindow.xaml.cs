@@ -23,12 +23,8 @@ namespace Abschlussprojekt_LernApp_MAtteo_Finn
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent();        
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            Debug.WriteLine("Tést");
-        }
     }
 }
