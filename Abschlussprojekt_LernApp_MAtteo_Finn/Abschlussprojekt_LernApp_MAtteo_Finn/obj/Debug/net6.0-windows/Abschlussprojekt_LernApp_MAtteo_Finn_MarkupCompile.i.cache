@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Matteo Schneider\source\repos\ATIW_Abschlussprojekt\Abschlussprojekt_LernApp_MAtteo_Finn\Abschlussprojekt_LernApp_MAtteo_Finn\App.xaml
-21505968660
+4-578890595
 
-8699487347
+10-2049549291
 1942007414746
-MainWindow.xaml;Theme\MenuButtonTheme.xaml;
+MainWindow.xaml;MVVM\View\AEW_View.xaml;Theme\BoxTheme.xaml;Theme\MenuButtonTheme.xaml;
 
 False
 

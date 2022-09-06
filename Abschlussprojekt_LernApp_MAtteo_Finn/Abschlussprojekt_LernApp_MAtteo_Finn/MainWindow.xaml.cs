@@ -26,5 +26,9 @@ namespace Abschlussprojekt_LernApp_MAtteo_Finn
             InitializeComponent();        
         }
 
+        private void RadioButton_Checked(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

@@ -19,3 +19,8 @@ C:\Users\Matteo Schneider\source\repos\ATIW_Abschlussprojekt\Abschlussprojekt_Le
 C:\Users\Matteo Schneider\source\repos\ATIW_Abschlussprojekt\Abschlussprojekt_LernApp_MAtteo_Finn\Abschlussprojekt_LernApp_MAtteo_Finn\obj\Debug\net6.0-windows\Abschlussprojekt_LernApp_MAtteo_Finn.pdb
 C:\Users\Matteo Schneider\source\repos\ATIW_Abschlussprojekt\Abschlussprojekt_LernApp_MAtteo_Finn\Abschlussprojekt_LernApp_MAtteo_Finn\obj\Debug\net6.0-windows\Abschlussprojekt_LernApp_MAtteo_Finn.genruntimeconfig.cache
 C:\Users\Matteo Schneider\source\repos\ATIW_Abschlussprojekt\Abschlussprojekt_LernApp_MAtteo_Finn\Abschlussprojekt_LernApp_MAtteo_Finn\obj\Debug\net6.0-windows\ref\Abschlussprojekt_LernApp_MAtteo_Finn.dll
+C:\Users\Matteo Schneider\source\repos\ATIW_Abschlussprojekt\Abschlussprojekt_LernApp_MAtteo_Finn\Abschlussprojekt_LernApp_MAtteo_Finn\obj\Debug\net6.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\Matteo Schneider\source\repos\ATIW_Abschlussprojekt\Abschlussprojekt_LernApp_MAtteo_Finn\Abschlussprojekt_LernApp_MAtteo_Finn\obj\Debug\net6.0-windows\App.baml
+C:\Users\Matteo Schneider\source\repos\ATIW_Abschlussprojekt\Abschlussprojekt_LernApp_MAtteo_Finn\Abschlussprojekt_LernApp_MAtteo_Finn\obj\Debug\net6.0-windows\Theme\BoxTheme.baml
+C:\Users\Matteo Schneider\source\repos\ATIW_Abschlussprojekt\Abschlussprojekt_LernApp_MAtteo_Finn\Abschlussprojekt_LernApp_MAtteo_Finn\obj\Debug\net6.0-windows\MVVM\View\AEW_View.g.cs
+C:\Users\Matteo Schneider\source\repos\ATIW_Abschlussprojekt\Abschlussprojekt_LernApp_MAtteo_Finn\Abschlussprojekt_LernApp_MAtteo_Finn\obj\Debug\net6.0-windows\MVVM\View\AEW_View.baml

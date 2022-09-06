@@ -11,7 +11,7 @@
         Background="Transparent"
         AllowsTransparency="True"
         Height="450" Width="800">
-    
+
     <Border Background="#272537"
             CornerRadius="20">
 
@@ -26,7 +26,7 @@
                 <RowDefinition Height="75"/>
             </Grid.RowDefinitions>
 
-            <TextBlock Text="Logo Text"
+            <TextBlock Text="Nautilus 1"
                    VerticalAlignment="Center"
                    HorizontalAlignment="Left"
                    Foreground="White"
@@ -35,13 +35,57 @@
 
             </TextBlock>
 
-            <StackPanel Grid.Row="1">
-                <RadioButton Content="Home"
+            <StackPanel Grid.Row="1" Margin="0,0,0,-300">
+                <RadioButton Content="AEW"
                              Height="50"
                              Foreground="White"
-                             FontSize="14"/>
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+
+                <RadioButton Content="EVP"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}" Checked="RadioButton_Checked"/>
+
+                <RadioButton Content="Wirtschaft"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+
+                <RadioButton Content="GIT"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+
+                <RadioButton Content="Deutsch"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+
+                <RadioButton Content="Politik"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
 
             </StackPanel>
+
+            <TextBox Width="250"
+                     Height="40"
+                     VerticalContentAlignment="Center"
+                     HorizontalAlignment="Center"
+                     Margin="5"
+                     Grid.Column="1"
+                     Style="{StaticResource ModernTextbox}"/>
+
+            <ContentControl Grid.Row="1"
+                            Grid.Column="1"
+                            Margin="10,10,-390,-290"/>
+
 
         </Grid>
 
